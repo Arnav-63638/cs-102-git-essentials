@@ -1,0 +1,5 @@
+git add : add a file from local to staged
+git commit : commit the staged files
+git clone : clone  repository from github to local
+git status : check the status of staged files
+git push : push the commited files from local to github
